@@ -139,26 +139,58 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 
 # 🧪 Highlighted Projects
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
+<div align="left">
+  <h3>🤖 AI-Driven Autonomous Recruitment And Multimodal Interviewing System</h3>
+  <p><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, LangChain, Gemini, ChromaDB</i></p>
+  <ul>
+    <li>Architected a full-stack recruitment orchestrator with Clerk authentication and MongoDB.</li>
+    <li>Developed an autonomous AI agent to dynamically generate personalized technical interview rubrics.</li>
+    <li>Engineered a RAG pipeline using LangChain, Gemini, and ChromaDB for semantic candidate shortlisting.</li>
+  </ul>
+  <a href="https://github.com/Aakashraj18/AI-Driven-Autonomous-Recruitment-System">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
-<td width="33%" valign="top">
+<br>
+
+<div align="left">
   <h3>💼 AI-Resume-Analyzer</h3>
-  <p>Integrated Gemini API with scalable REST API handling 26K+ requests/sec.</p>
-</td>
+  <p><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API</i></p>
+  <ul>
+    <li>Integrated Gemini API to analyze resumes and generate ATS compatibility feedback in real time.</li>
+    <li>Engineered scalable REST API capable of handling <b>500+ concurrent users</b> and <b>26K+ requests/sec</b> during load testing.</li>
+    <li>Optimized backend performance to achieve sub-20 ms average API latency under high traffic.</li>
+    <li>Secured user data utilizing JWT authentication and robust password hashing.</li>
+  </ul>
+  <a href="https://github.com/Aakashraj18/AI-Resume-Analyzer">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+</div>
 
-<td width="33%" valign="top">
-  <h3>💸 Expense Tracker</h3>
-  <p>Real-time secure MERN application utilizing Socket.IO, sustained 12K+ concurrent requests.</p>
-</td>
+<br>
 
-<td width="33%" valign="top">
-  <h3>🤖 Autonomous Recruitment System</h3>
-  <p>Engineered a RAG pipeline (LangChain, Gemini) for semantic candidate shortlisting and interview rubrics.</p>
-</td>
-
-</tr>
-</table>
+<div align="left">
+  <h3>💸 Real-Time Expense Tracker</h3>
+  <p><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS</i></p>
+  <ul>
+    <li>Developed a secure backend using Node.js and MongoDB to keep separate user wallets isolated.</li>
+    <li>Sustained <b>12K+ requests/sec</b> and <b>100+ concurrent users</b> during performance testing.</li>
+    <li>Implemented user login security using JWT authentication, password hashing, and strict email validation.</li>
+    <li>Enhanced application reliability by mitigating 120K+ excessive requests through rate limiting.</li>
+  </ul>
+  <a href="https://github.com/Aakashraj18/Expense-Tracker">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+</div>
 
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Aakashraj18)
