@@ -33,13 +33,13 @@
 <h2>👨‍💻 About Me</h2>
 
 <h3>
-I'm a passionate Software Engineering student at the <b>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</b>. <br>
+I'm a Computer Science student at the <b>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</b>, with a deep dive into Software Development. <br>
 I specialize in the <b>MERN stack</b>, competitive programming, and integrating AI features into scalable systems.
 </h3>
 
 <ul>
   <li><h4>🎓 Pursuing B.Tech in Computer Science and Engineering (CGPA: 8.11)</h4></li>
-  <li><h4>🚀 Working on: <b>AI-Driven Autonomous Recruitment System</b></h4></li>
+  <!-- <li><h4>🚀 Working on: <b>AI-Driven Autonomous Recruitment System</b></h4></li> -->
   <li><h4>🏆 Solved <b>1000+ DSA</b> problems (LeetCode, Codeforces, CodeChef)</h4></li>
   <li><h4>🤝 Looking to collaborate on real-world CS & Full-stack projects</h4></li>
 </ul>
