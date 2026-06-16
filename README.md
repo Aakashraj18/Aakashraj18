@@ -100,7 +100,7 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 <h3 align="center">🚀 Frameworks & Tech Stacks</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express.js" style="margin: 10px;"/>
+  <img src="https://cdn.simpleicons.org/express/white" width="50" title="Express.js" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS" style="margin: 10px;"/>
@@ -115,11 +115,11 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 <h3 align="center">🧰 Tools & Platforms</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub" style="margin: 10px;"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="50" title="GitHub" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" title="VSCode" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" title="Windows" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" title="macOS" style="margin: 10px;"/>
+  <img src="https://cdn.simpleicons.org/apple/white" width="50" title="macOS" style="margin: 10px;"/>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Web_Platform-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" style="margin: 5px;" alt="Web Platform"/>
