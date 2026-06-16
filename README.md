@@ -30,12 +30,6 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Aakashraj18)
 
-<table border="0" cellspacing="10" cellpadding="0" width="100%">
-<tr>
-
-<!-- LEFT: ABOUT ME -->
-<td width="55%" valign="top">
-
 <h2>👨‍💻 About Me</h2>
 
 <p>
@@ -49,32 +43,39 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
   <li>🤝 Looking to collaborate on real-world CS & Full-stack projects</li>
 </ul>
 
-</td>
-
-<!-- RIGHT: CONTACT -->
-<td width="45%" align="center" valign="top">
-
-<h2>📫 Connect With Me</h2>
 <br>
 
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
 <a href="mailto:akashkrrajak18@gmail.com">
-  <img src="https://img.shields.io/badge/email-akashkrrajak18@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email contact link" height="35">
 </a>
-<br><br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aakash-kumar-rajak-231b89314/">
-  <img src="https://img.shields.io/badge/linkedin-Aakash%20Kumar%20Rajak-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn profile link" height="35">
 </a>
-<br><br>
+</p>
 
-<a href="https://leetcode.com/Aakashraj_12/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+<br>
+
+<h2 align="center">🎯 Coding Platforms</h2>
+<p align="center">
+<a href="https://leetcode.com/u/Aakashraj_12/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black" alt="LeetCode" height="35">
 </a>
-
-</td>
-
-</tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Aakashraj18">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=Codeforces&logoColor=white" alt="Codeforces" height="35">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/aakashraj_24">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=CodeChef&logoColor=white" alt="CodeChef" height="35">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codolio.com/profile/aakashraj12">
+  <img src="https://img.shields.io/badge/Codolio-000000?style=plastic&logo=reverbnation&logoColor=white" alt="Codolio" height="35">
+</a>
+</p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Aakashraj18)
 
