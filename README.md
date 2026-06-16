@@ -33,7 +33,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <h3>
-I'm a Computer Science student at the <b>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</b>, with a deep dive into Software Development. <br>
+I'm a Computer Science student at the <b>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</b>, with a deep dive into Software Development. <br><br>
 I specialize in the <b>MERN stack</b>, competitive programming, and integrating AI features into scalable systems.
 </h3>
 
