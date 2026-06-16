@@ -1,16 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Aakash%20Kumar%20Rajak&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20&%20Competitive%20Programmer&descAlignY=55&descAlign=55" alt="Profile header wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aakash%20Kumar%20Rajak&fontSize=70&animation=twinkling" alt="Profile header wave"/>
+</p>
+
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/aakash-kumar-rajak-231b89314/">Aakash Kumar Rajak</a></b>
+    </samp>
+</h3>
+
+<br>
+
+<p align="center">
+<samp>
+「 Full-Stack Developer building scalable systems, AI applications, and cracking algorithms 」  
+</samp>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development;Competitive+Programming+(Pupil+on+Codeforces);AI+%26+Machine+Learning+Integration;Software+Engineering+Student+at+NIT+Silchar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development;AI+%26+Machine+Learning+Integration;MERN+Stack+Specialist;Competitive+Programming" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated tech visual">
 </p>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Aakashraj18)
 
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
 
 <!-- LEFT: ABOUT ME -->
@@ -26,13 +46,12 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering (CGPA: 8.11)</li>
   <li>🚀 Working on: <b>AI-Driven Autonomous Recruitment System</b></li>
   <li>🏆 Solved <b>1000+ DSA</b> problems (LeetCode, Codeforces, CodeChef)</li>
-  <li>📈 Codeforces Rank: <b>Pupil</b> | CodeChef: <b>2 Star</b></li>
   <li>🤝 Looking to collaborate on real-world CS & Full-stack projects</li>
 </ul>
 
 </td>
 
-<!-- RIGHT: ANIMATED BADGE OR INFO -->
+<!-- RIGHT: CONTACT -->
 <td width="45%" align="center" valign="top">
 
 <h2>📫 Connect With Me</h2>
@@ -59,60 +78,55 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Aakashraj18)
 
-# 🛠 Technologies & Tools
+# 🛠 Programming Languages & Frameworks
 
-<table border="0" cellspacing="10" cellpadding="0">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" title="Go" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" title="C" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" style="margin: 10px;"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express.js" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" title="SQL" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" title="VSCode" style="margin: 10px;"/>
+</div>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Aakashraj18)
+
+# 🧪 Highlighted Projects
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
-<td width="500" valign="top" align="center">
-
-<h3>💻 Programming Languages & Frameworks</h3>
-<br>
-
-<table align="center" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="Go"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="SQL"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VSCode"/></td>
-  </tr>
-</table>
-
+<td width="33%" valign="top">
+  <h3>💼 AI-Resume-Analyzer</h3>
+  <p>Integrated Gemini API with scalable REST API handling 26K+ requests/sec.</p>
 </td>
 
-<td width="300" valign="top" align="center">
+<td width="33%" valign="top">
+  <h3>💸 Expense Tracker</h3>
+  <p>Real-time secure MERN application utilizing Socket.IO, sustained 12K+ concurrent requests.</p>
+</td>
 
-<h3>🧪 Highlighted Projects</h3>
-<br>
-
-<ul align="left">
-  <li><b>AI-Resume-Analyzer</b>: Integrated Gemini API with scalable REST API handling 26K+ req/s.</li>
-  <li><b>Expense Tracker</b>: Real-time MERN application using Socket.IO, sustained 12K+ req/s.</li>
-  <li><b>Autonomous Recruitment System</b>: RAG pipeline (LangChain, Gemini) for interview rubrics.</li>
-</ul>
-
+<td width="33%" valign="top">
+  <h3>🤖 Autonomous Recruitment System</h3>
+  <p>Engineered a RAG pipeline (LangChain, Gemini) for semantic candidate shortlisting and interview rubrics.</p>
 </td>
 
 </tr>
 </table>
+
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Aakashraj18)
 
