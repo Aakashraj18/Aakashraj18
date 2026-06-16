@@ -156,7 +156,7 @@ I specialize in the <b>MERN stack</b>, competitive programming, and integrating 
     <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://ai-resume-analyzer-82lg.onrender.com/">
     <img src="https://img.shields.io/badge/Live_Link-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Link">
   </a>
 </div>
@@ -176,7 +176,7 @@ I specialize in the <b>MERN stack</b>, competitive programming, and integrating 
     <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://expense-tracker-six-sage-47.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Link-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Link">
   </a>
 </div>
