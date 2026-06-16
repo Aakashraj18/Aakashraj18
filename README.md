@@ -32,15 +32,15 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<p>
+<h3>
 I'm a passionate Software Engineering student at the <b>National Institute of Technology, Silchar</b>. I specialize in the <b>MERN stack</b>, competitive programming, and integrating AI features into scalable systems.
-</p>
+</h3>
 
 <ul>
-  <li>🎓 Pursuing B.Tech in Computer Science and Engineering (CGPA: 8.11)</li>
-  <li>🚀 Working on: <b>AI-Driven Autonomous Recruitment System</b></li>
-  <li>🏆 Solved <b>1000+ DSA</b> problems (LeetCode, Codeforces, CodeChef)</li>
-  <li>🤝 Looking to collaborate on real-world CS & Full-stack projects</li>
+  <li><h4>🎓 Pursuing B.Tech in Computer Science and Engineering (CGPA: 8.11)</h4></li>
+  <li><h4>🚀 Working on: <b>AI-Driven Autonomous Recruitment System</b></h4></li>
+  <li><h4>🏆 Solved <b>1000+ DSA</b> problems (LeetCode, Codeforces, CodeChef)</h4></li>
+  <li><h4>🤝 Looking to collaborate on real-world CS & Full-stack projects</h4></li>
 </ul>
 
 <br>
@@ -141,11 +141,11 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 
 <div align="left">
   <h3>🤖 AI-Driven Autonomous Recruitment And Multimodal Interviewing System</h3>
-  <p><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, LangChain, Gemini, ChromaDB</i></p>
+  <h4><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, LangChain, Gemini, ChromaDB</i></h4>
   <ul>
-    <li>Architected a full-stack recruitment orchestrator with Clerk authentication and MongoDB.</li>
-    <li>Developed an autonomous AI agent to dynamically generate personalized technical interview rubrics.</li>
-    <li>Engineered a RAG pipeline using LangChain, Gemini, and ChromaDB for semantic candidate shortlisting.</li>
+    <li><h4>Architected a full-stack recruitment orchestrator with Clerk authentication and MongoDB.</h4></li>
+    <li><h4>Developed an autonomous AI agent to dynamically generate personalized technical interview rubrics.</h4></li>
+    <li><h4>Engineered a RAG pipeline using LangChain, Gemini, and ChromaDB for semantic candidate shortlisting.</h4></li>
   </ul>
   <a href="https://github.com/Aakashraj18/AI-Driven-Autonomous-Recruitment-System">
     <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
@@ -156,19 +156,19 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 
 <div align="left">
   <h3>💼 AI-Resume-Analyzer</h3>
-  <p><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API</i></p>
+  <h4><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API</i></h4>
   <ul>
-    <li>Integrated Gemini API to analyze resumes and generate ATS compatibility feedback in real time.</li>
-    <li>Engineered scalable REST API capable of handling <b>500+ concurrent users</b> and <b>26K+ requests/sec</b> during load testing.</li>
-    <li>Optimized backend performance to achieve sub-20 ms average API latency under high traffic.</li>
-    <li>Secured user data utilizing JWT authentication and robust password hashing.</li>
+    <li><h4>Integrated Gemini API to analyze resumes and generate ATS compatibility feedback in real time.</h4></li>
+    <li><h4>Engineered scalable REST API capable of handling <b>500+ concurrent users</b> and <b>26K+ requests/sec</b> during load testing.</h4></li>
+    <li><h4>Optimized backend performance to achieve sub-20 ms average API latency under high traffic.</h4></li>
+    <li><h4>Secured user data utilizing JWT authentication and robust password hashing.</h4></li>
   </ul>
   <a href="https://github.com/Aakashraj18/AI-Resume-Analyzer">
     <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live_Link-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Link">
   </a>
 </div>
 
@@ -176,19 +176,19 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 
 <div align="left">
   <h3>💸 Real-Time Expense Tracker</h3>
-  <p><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS</i></p>
+  <h4><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS</i></h4>
   <ul>
-    <li>Developed a secure backend using Node.js and MongoDB to keep separate user wallets isolated.</li>
-    <li>Sustained <b>12K+ requests/sec</b> and <b>100+ concurrent users</b> during performance testing.</li>
-    <li>Implemented user login security using JWT authentication, password hashing, and strict email validation.</li>
-    <li>Enhanced application reliability by mitigating 120K+ excessive requests through rate limiting.</li>
+    <li><h4>Developed a secure backend using Node.js and MongoDB to keep separate user wallets isolated.</h4></li>
+    <li><h4>Sustained <b>12K+ requests/sec</b> and <b>100+ concurrent users</b> during performance testing.</h4></li>
+    <li><h4>Implemented user login security using JWT authentication, password hashing, and strict email validation.</h4></li>
+    <li><h4>Enhanced application reliability by mitigating 120K+ excessive requests through rate limiting.</h4></li>
   </ul>
   <a href="https://github.com/Aakashraj18/Expense-Tracker">
     <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live_Link-0078D4?style=plastic&logo=googlechrome&logoColor=white" alt="Live Link">
   </a>
 </div>
 
