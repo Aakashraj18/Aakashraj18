@@ -199,6 +199,10 @@ I specialize in the <b>MERN stack</b>, competitive programming, and integrating 
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashraj18&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aakashraj18&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
