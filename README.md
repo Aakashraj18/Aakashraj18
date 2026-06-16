@@ -78,8 +78,9 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Aakashraj18)
 
-# 🛠 Programming Languages & Frameworks
+# 🛠 Skills & Expertise
 
+<h3 align="center">💻 Languages</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" style="margin: 10px;"/>
@@ -90,16 +91,47 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" style="margin: 10px;"/>
-  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" title="SQL" style="margin: 10px;"/>
+</div>
+
+<br>
+
+<h3 align="center">🚀 Frameworks & Tech Stacks</h3>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express.js" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" title="SQL" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS" style="margin: 10px;"/>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;" alt="MERN Stack"/>
+  <img src="https://img.shields.io/badge/API_Integration-FF4F8B?style=for-the-badge&logo=fastapi&logoColor=white" style="margin: 5px;" alt="API Integration"/>
+</div>
+
+<br>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" title="VSCode" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" title="Windows" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" title="macOS" style="margin: 10px;"/>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Web_Platform-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" style="margin: 5px;" alt="Web Platform"/>
+</div>
+
+<br>
+
+<h3 align="center">🧠 CS Fundamentals</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" style="margin: 5px;" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Database_Management_Systems-003B57?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" style="margin: 5px;" alt="OS"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white" style="margin: 5px;" alt="Networks"/>
 </div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Aakashraj18)
