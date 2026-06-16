@@ -48,11 +48,11 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
 <a href="mailto:akashkrrajak18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email contact link" height="35">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email contact link" height="55">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aakash-kumar-rajak-231b89314/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn profile link" height="35">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn profile link" height="55">
 </a>
 </p>
 
@@ -61,19 +61,19 @@ I'm a passionate Software Engineering student at the <b>National Institute of Te
 <h2 align="center">🎯 Coding Platforms</h2>
 <p align="center">
 <a href="https://leetcode.com/u/Aakashraj_12/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black" alt="LeetCode" height="35">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black" alt="LeetCode" height="55">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/Aakashraj18">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=Codeforces&logoColor=white" alt="Codeforces" height="35">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=Codeforces&logoColor=white" alt="Codeforces" height="55">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/aakashraj_24">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=CodeChef&logoColor=white" alt="CodeChef" height="35">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=CodeChef&logoColor=white" alt="CodeChef" height="55">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codolio.com/profile/aakashraj12">
-  <img src="https://img.shields.io/badge/Codolio-000000?style=plastic&logo=reverbnation&logoColor=white" alt="Codolio" height="35">
+  <img src="https://img.shields.io/badge/Codolio-000000?style=plastic&logo=reverbnation&logoColor=white" alt="Codolio" height="55">
 </a>
 </p>
 
