@@ -1,9 +1,7 @@
 <!-- Title -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&animation=twinkling" alt="Profile header wave" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=twinkling&width=100" alt="Profile header wave"/>
 </p>
-
 
 <h2 align="center">
     <samp>
