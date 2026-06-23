@@ -1,10 +1,10 @@
 <!-- Title -->
-<h3 align="center">
+<h1 align="center">
     <samp>
         &gt; Hey There!, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/aakash-kumar-rajak-231b89314/">Aakash Kumar Rajak</a></b>
     </samp>
-</h3>
+</h1>
 
 <br>
 
