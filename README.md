@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aakash%20Kumar%20Rajak&fontSize=70&animation=twinkling" alt="Profile header wave"/>
-</p>
-
 <!-- Title -->
 <h3 align="center">
     <samp>
