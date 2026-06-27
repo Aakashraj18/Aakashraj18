@@ -130,7 +130,7 @@ I specialize in the <b>MERN stack</b>, competitive programming, and integrating 
 
 <div align="left">
   <h3>🤖 AI-Driven Autonomous Recruitment And Multimodal Interviewing System</h3>
-  <h4><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, LangChain, Gemini, ChromaDB</i></h4>
+  <h4><b>Tech Stack:</b> <i>React, Node.js, Express js, MongoDB, Tailwind CSS, LangChain, Gemini, ChromaDB</i></h4>
   <ul>
     <li><h4>Architected a full-stack recruitment orchestrator with Clerk authentication and MongoDB.</h4></li>
     <li><h4>Developed an autonomous AI agent to dynamically generate personalized technical interview rubrics.</h4></li>
@@ -145,7 +145,7 @@ I specialize in the <b>MERN stack</b>, competitive programming, and integrating 
 
 <div align="left">
   <h3>💼 AI-Resume-Analyzer</h3>
-  <h4><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Tailwind CSS, Gemini API</i></h4>
+  <h4><b>Tech Stack:</b> <i>React, Node.js, Express js, MongoDB, Tailwind CSS, Gemini API, Cloudinary, JWT</i></h4>
   <ul>
     <li><h4>Integrated Gemini API to analyze resumes and generate ATS compatibility feedback in real time.</h4></li>
     <li><h4>Engineered scalable REST API capable of handling <b>500+ concurrent users</b> and <b>26K+ requests/sec</b> during load testing.</h4></li>
@@ -165,7 +165,7 @@ I specialize in the <b>MERN stack</b>, competitive programming, and integrating 
 
 <div align="left">
   <h3>💸 Real-Time Expense Tracker</h3>
-  <h4><b>Tech Stack:</b> <i>React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS</i></h4>
+  <h4><b>Tech Stack:</b> <i>React, Node.js, Express js, MongoDB, Socket.IO, Tailwind CSS</i></h4>
   <ul>
     <li><h4>Developed a secure backend using Node.js and MongoDB to keep separate user wallets isolated.</h4></li>
     <li><h4>Sustained <b>12K+ requests/sec</b> and <b>100+ concurrent users</b> during performance testing.</h4></li>
